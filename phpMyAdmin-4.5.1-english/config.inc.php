@@ -22,7 +22,7 @@ $cfg['blowfish_secret'] = 'ba1bc176665003'; /* YOU MUST FILL IN THIS FOR COOKIE 
 $i = 0;
 
 /**
- * First server
+ * First serve
  */
 $i++;
 /* Authentication type */
